@@ -101,11 +101,10 @@ width:100%;
 min-height:400px;
 background-color:#eee;			
 }
-.container .para p{
+.container .para{
     font-size: 20px;
     font-family: courier;
-    text-align: center;
-    color:pink; 
+    text-align: center; 
 }
 
 	
