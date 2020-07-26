@@ -96,12 +96,11 @@ margin-bottom: 4px;
 	min-height: 400px;
 	background-color: #000;
 	}
-	.container .nav{
-    width: 100%;
-    background-color: #124;
-    text-align: center;
-    padding: 10px;
+	
+     .container .nav{
+       display:none;
 
 }
+	
 }
     
