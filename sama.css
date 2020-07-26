@@ -101,6 +101,12 @@ margin-bottom: 4px;
        display:none;
 
 }
+	.container .nav ul{
+   display:none;
+}
+.container .nav ul a{
+    display:none;
+}
 	
 }
     
