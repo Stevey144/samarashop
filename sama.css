@@ -102,8 +102,12 @@ min-height:400px;
 background-color:#eee;			
 }
 .container .nav{
- display:block;
+    width: 100%;
+    background-color: #124;
+    text-align: center;
+    padding: 10px;
 }
+	
 .container .nav ul a{
     color: white;
     font-size: 10px;
