@@ -99,8 +99,7 @@ background-color: #eee;
 .container{
 width:100%;
 min-height:400px;
-background-color:#000;
-color:#fff;			
+background-color:#eee;			
 }
 .container .para{
     font-size: 20px;
