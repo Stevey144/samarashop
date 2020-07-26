@@ -92,9 +92,15 @@ margin-bottom: 4px;
     
 @media only screen and (min-width: 320px) and (max-width:480px){
 body{
-	width: 100%;
-	min-height: 400px;
-	background-color: #000;
+width: 100%;
+min-height: 400px;
+background-color: #eee;
 }
+.container{
+width:100%;
+min-height:400px;
+background-color:#000;
+		
 	
 }
+	]
