@@ -102,9 +102,7 @@ min-height:400px;
 background-color:#eee;			
 }
 .container .nav{
-    width: 100%;
-    background-color: #124;
-    padding: 5px;
+ display:block;
 }
 .container .nav ul a{
     color: white;
